@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://nacoocheevalleylodge.com/$1"
+ }
+  ]
+}
